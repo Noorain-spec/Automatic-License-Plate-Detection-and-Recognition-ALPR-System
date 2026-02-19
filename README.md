@@ -1,4 +1,4 @@
-# Automatic-License-Plate-Detection-and-Recognition-ALPR-System
+# Automatic-License-Plate-Detection-and-Recognition-ALPR-System (E2E)
 
 Create and activate virtual environment: 
     python venv venv
