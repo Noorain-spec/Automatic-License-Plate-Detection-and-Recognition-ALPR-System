@@ -22,18 +22,4 @@ build/
 .DS_Store
 Thumbs.db
 
-# Large files
-*.pt
-*.pth
-*.h5
-*.pkl
-*.pickle
 
-# Output/Run directories
-runs/
-test_output/
-working/
-output.txt
-
-# Dataset (if too large)
-input/
