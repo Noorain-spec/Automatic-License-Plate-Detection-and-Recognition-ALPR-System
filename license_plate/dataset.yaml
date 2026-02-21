@@ -1,0 +1,5 @@
+train: input/license_plate_detection/images/train
+val: input/license_plate_detection/images/val
+
+nc: 1
+names: ['license_plate']
