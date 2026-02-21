@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pt
+*.pth
+*.h5
+*.pkl
+*.pickle
+
+# Output/Run directories
+runs/
+test_output/
+working/
+output.txt
+
+# Dataset (if too large)
+input/
