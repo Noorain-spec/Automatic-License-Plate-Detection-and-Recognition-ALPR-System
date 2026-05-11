@@ -22,9 +22,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Large model weight files (too big for GitHub without LFS)
-*.pt
-
 # Downloaded datasets (re-downloadable)
 indian_plate_dataset/
 helmet_dataset/
